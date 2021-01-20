@@ -38,7 +38,7 @@ function SnowStorm() {
     this.flakeHeight = 8; // max pixel height for snow element
     this.vMaxX = 5; // Maximum X velocity range for snow
     this.vMaxY = 4; // Maximum Y velocity range
-    this.zIndex = 20; // CSS stacking order applied to each snowflake
+    this.zIndex = 202100; // CSS stacking order applied to each snowflake
 
     // --- End of user section ---
 
